@@ -21,6 +21,10 @@ const theme = createTheme({
     error: {
       main: red.A400,
     },
+
+    iconColor:{
+      main: '#fcba03'
+    }
   },
   typography: {
     fontFamily: roboto.style.fontFamily,

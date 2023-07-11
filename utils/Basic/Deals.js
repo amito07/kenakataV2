@@ -1,6 +1,7 @@
 const DealsList = [
   {
     category: "Flash Deals",
+    icon:"/icon_img",
     items: [
       {
         product_name: "PlayStation 4 Game Pro",
@@ -21,6 +22,7 @@ const DealsList = [
   },
   {
     category: "Hot Deals",
+    icon:"/icon_img",
     items: [
       {
         product_name: "JBL Endurance Peak True Wireless",

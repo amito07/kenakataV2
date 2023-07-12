@@ -7,6 +7,9 @@ const cardStyle = {
   flexDirection: "row",
   justifyContent: "space-evenly",
   alignItems: "center",
+  width:"95%",
+  height: "30vh",
+  borderRadius:'5px'
 };
 const DealsSub = () => {
   return (
